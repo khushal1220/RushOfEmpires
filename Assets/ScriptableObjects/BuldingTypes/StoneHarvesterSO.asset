@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19280a25e01c9404fa0e7320b552a188, type: 3}
+  m_Name: StoneHarvesterSO
+  m_EditorClassIdentifier: 
+  names: StoneHarvester
+  prefab: {fileID: 3209715722776740422, guid: c8b906cb34509e44ebd1dd71fbc6aa05, type: 3}
